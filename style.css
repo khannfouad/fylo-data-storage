@@ -232,7 +232,6 @@ ul li {
 
   .wrapper{
     grid-template-columns: 1fr 1.5fr;
-    padding-bottom: 5rem;
     gap: 2rem;
   }
 
